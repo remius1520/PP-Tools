@@ -1,0 +1,8 @@
+{"_source":"data.unity3d level5, GameObject 'SpinController', MonoBehaviour script pathID 4894; body offsets matched to dump.cs (body+0x74 == class +0x130)",
+ "maxX":60,"minX":-60,"maxY":60,"minY":-60,"controllSpeed":0.3,"constRadius":60,
+ "instanttravel":0,"fastTravel":0,"spinLayerMask":"0xC00",
+ "leftIncreamnt":1,"rightIncreamnt":1,"bottomIncreament":1,
+ "minbaseIncrementValue":0.2,"maxbaseIncrementValue":0.4,"minbasedecreaseRate":0.1,"maxbasedecreaseRate":0.3,
+ "minbaseIncreaseAfterZero":0.17,"maxbaseIncreaseAfterZero":0.37,"minbaseIncreaseSide":0.25,"maxbaseIncreaseSide":0.45,
+ "maxBaseIncreaseEdge":0.5,"maxBaseDecreaseEdge":0.6,"zerodifferencemultiplication":3,"deadZone":7,"deadZoneverticall":7,
+ "currentDifference":0,"classLimiters":"empty list (count 0)","globalBias_rodata_0x1318854":-0.22}

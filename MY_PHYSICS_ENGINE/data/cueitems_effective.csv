@@ -1,0 +1,140 @@
+# from resources.assets TextAsset "cueitemsConfig" (JSON). missing field -> 0.125 (CueItem getters: hasValue?value:0.125, libil2cpp 0x5DF8A88)
+# itemID,itemName,spinFactorDividor,maxStickPowerPercentege,aimHelperRange,dividorDefaulted
+CueE_004,Scorpion,1,1,1,0
+CueA_004,Darkness,1,1,1,0
+CueA_009,Blue Saber,1,1,1,0
+CueA_010,Nebula,1,1,1,0
+CueE_007,Ruby,1,1,1,0
+CueE_009,Dracula,1,1,1,0
+CueE_012,Tutankhamun,1,1,1,0
+CueA_002,Frankenstein,1,1,1,0
+CueA_003,Arcane Moon,1,1,1,0
+CueA_005,Fire Berries,1,1,1,0
+CueA_006,Diamond 8,1,1,1,0
+CueA_007,Aquamarine,1,1,1,0
+CueA_001,Light,1,1,1,0
+CueE_005,Omega,1,1,1,0
+CueE_013,Grinch,1,1,1,0
+CueE_015,Scepter,1,1,1,0
+CueE_016,Ribbon,1,1,1,0
+CueE_001,Golden 8,1,1,1,0
+CueE_002,Snowman,1,1,1,0
+CueE_003,Golden Eagle,1,1,1,0
+CueE_006,Red Dragon,1,1,1,0
+CueN_001,Algeria,0.75,0.75,1,0
+CueN_002,Argentina,0.75,0.75,1,0
+CueE_011,Alien,1,1,1,0
+CueE_008,Golden Tiger,1,1,1,0
+CueE_010,Black Dragon,1,1,1,0
+CueE_014,Werewolf,1,1,1,0
+CueE_019,Dragon,1,1,1,0
+CueE_020,8 Ball,1,1,1,0
+CueE_021,Heart,1,1,1,0
+CueE_022,Ding Junhul,1,1,1,0
+CueE_023,John Higgins,1,1,1,0
+CueE_024,Judd Trump,1,1,1,0
+CueN_003,Australia,0.75,0.75,1,0
+CueN_006,Bosnia,0.75,0.75,1,0
+CueE_017,Venom,1,1,1,0
+CueE_025,Mark Selby,1,1,1,0
+CueE_026,Neil Rebertson,1,1,1,0
+CueE_027,Ronnie O Sullivan,1,1,1,0
+CueE_028,Steve Davis,1,1,1,0
+CueE_029,Stuart Bingham,1,1,1,0
+CueA_008,EmeraId,1,1,1,0
+CueA_011,Gold Rider,1,1,1,0
+CueA_012,Red Saber,1,1,1,0
+CueA_013,Yellow Saber,1,1,1,0
+CueS_003,Broom,0,0.125,0.25,0
+CueS_006,Cat Scratch,0.25,0.375,0.5,0
+CueS_007,Light of Ramadan,0.375,0.375,0.5,0
+CueS_025,Dwarven,0.5,0.75,0.75,0
+CueA_014,Astaroth,1,1,1,0
+CueA_015,LavaSkull,0.125,0.125,0.125,1
+CueA_016,EidCue,0.125,0.125,0.125,1
+CueE_018,Mehndi,1,1,1,0
+CueE_030,Beta Cue,1,1,1,0
+CueE_031,Diamond,0.125,0.125,0.125,1
+CueE_032,FlamingHeart,0.125,0.125,0.125,1
+CueE_033,GoldenHeart,0.125,0.125,0.125,1
+CueN_004,Bahrain,0.75,0.75,1,0
+CueN_005,Belgium,0.75,0.75,1,0
+CueN_050,Venezuela,0.75,0.75,1,0
+CueN_051,Kurdistan,0.75,0.75,1,0
+CueS_001,Bamboo,0.125,0.25,0.5,0
+CueS_002,BlackWido,0.375,0.375,0.75,0
+CueS_008,Bone,0.125,0.5,0.5,0
+CueS_009,Lightning,0.5,0.5,0.75,0
+CueS_010,GoodWill,0.25,0.5,0.75,0
+CueS_011,Green Shot,0.375,0.5,0.5,0
+CueS_012,Jack O Lantern,0,0.125,0.5,0
+CueS_013,Pencil,0.125,0.375,0.75,0
+CueS_014,Purple Reign,0.375,0.5,0.5,0
+CueS_015,Yallow Fever,0.375,0.5,0.5,0
+CueS_016,Avalon,0.625,0.625,1,0
+CueS_017,Steampunk,0.375,0.375,0.75,0
+CueS_018,Red Rose,0.625,0.625,1,0
+CueS_019,Zebra,0.875,0.75,1,0
+CueS_020,Tiger,0.375,0.5,1,0
+CueS_023,Totem,0.375,0.375,0.75,0
+CueS_024,Dr. Frankenstein's,0.625,0.875,0.625,0
+CueS_004,Dino,0.375,0.5,0.5,0
+CueS_005,Polar,0.375,0.5,0.5,0
+CueS_021,Widomaker,0.75,0.75,1,0
+CueS_022,Viking,0.75,0.875,1,0
+CueS_026,Pirate,0.375,0.5,0.75,0
+CueS_027,Loki,0.875,0.75,1,0
+CueS_028,Skeleton,0.625,0.625,0.5,0
+CueS_029,Pharaoh,0.75,0.875,0.875,0
+CueS_030,Thor,0.875,1,0.75,0
+CueS_031,Snowflake,0.5,0.625,0.75,0
+CueN_007,Brazil,0.75,0.75,1,0
+CueN_008,Canada,0.75,0.75,1,0
+CueN_009,Chile,0.75,0.75,1,0
+CueN_010,Colombia,0.75,0.75,1,0
+CueN_011,Costa Rica,0.75,0.75,1,0
+CueN_012,Croatia,0.75,0.75,1,0
+CueN_013,Czech,0.75,0.75,1,0
+CueN_014,Ecuador,0.75,0.75,1,0
+CueN_015,Egypt,0.75,0.75,1,0
+CueN_016,France,0.75,0.75,1,0
+CueN_017,Germany,0.75,0.75,1,0
+CueN_018,India,0.75,0.75,1,0
+CueN_019,Indonesia,0.75,0.75,1,0
+CueN_020,Iraq,0.75,0.75,1,0
+CueN_021,Ireland,0.75,0.75,1,0
+CueN_022,Italy,0.75,0.75,1,0
+CueN_023,Jordan,0.75,0.75,1,0
+CueN_024,Lebanon,0.75,0.75,1,0
+CueN_025,Libya,0.75,0.75,1,0
+CueN_026,Malaysia,0.75,0.75,1,0
+CueN_027,Mexico,0.75,0.75,1,0
+CueN_028,Morocco,0.75,0.75,1,0
+CueN_029,Netherlands,0.75,0.75,1,0
+CueN_030,Palestine,0.75,0.75,1,0
+CueN_031,Peru,0.75,0.75,1,0
+CueN_032,Philippines,0.75,0.75,1,0
+CueN_033,Portugal,0.75,0.75,1,0
+CueN_034,Qatar,0.75,0.75,1,0
+CueN_035,Russia,0.75,0.75,1,0
+CueN_036,Saudi Arabia,0.75,0.75,1,0
+CueN_037,Serbia,0.75,0.75,1,0
+CueN_038,Slovakia,0.75,0.75,1,0
+CueN_039,Spain,0.75,0.75,1,0
+CueN_040,Sri Lanka,0.75,0.75,1,0
+CueN_041,Switzerland,0.75,0.75,1,0
+CueN_042,Syria,0.75,0.75,1,0
+CueN_043,Thailand,0.75,0.75,1,0
+CueN_044,Tunisia,0.75,0.75,1,0
+CueN_045,Turkey,0.75,0.75,1,0
+CueN_046,United Arab Emirates,0.75,0.75,1,0
+CueN_047,United Kingdom,0.75,0.75,1,0
+CueN_048,United States,0.75,0.75,1,0
+CueN_049,Uruguay,0.75,0.75,1,0
+CueD_001,Default,0.125,0.125,0.125,1
+CueD_002,Default,0.125,0.125,0.125,1
+CueD_003,Default,0.125,0.125,0.125,1
+CueD_004,Default,0.125,0.125,0.125,1
+CueD_005,Default,0.125,0.125,0.125,1
+CueD_006,Default,0.125,0.125,0.125,1
+CueD_007,Default,0.125,0.125,0.125,1

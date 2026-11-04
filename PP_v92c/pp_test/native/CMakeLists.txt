@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.18)
+project(premiumpath CXX)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+add_library(premiumpath SHARED payload.cpp)
+target_link_libraries(premiumpath log dl)
+target_compile_options(premiumpath PRIVATE -O2 -fvisibility=hidden -Wall -Wno-misleading-indentation)

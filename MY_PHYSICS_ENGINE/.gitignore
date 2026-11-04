@@ -1,0 +1,14 @@
+build/
+build-android/
+pp2_sim
+test_*
+!tests/
+!test_*.cpp
+!test_*.c
+*.so
+*.o
+*.a
+*.pyc
+__pycache__/
+pp2_data_test.bin
+build.log

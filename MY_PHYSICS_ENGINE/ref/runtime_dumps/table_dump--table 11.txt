@@ -1,0 +1,50 @@
+GameManager=0x75959e3d80  ring=0x76fffe1db0 ringCount=60
+balls: list=0x7628ae02d0 items=0x76288f9370 size=10 positions=10
+ball[0] ptr=0x7651387540 cue=1 black=0 inPocket=0 radius=0.0275 group=0x7628506500 pos=(-0.5550,-0.0296,-0.1740) pocketLoc=0 targetPocket=(0.0000,0.0000,0.0000) pocketAround=0x0
+ball[1] ptr=0x76289e6c40 cue=0 black=0 inPocket=0 radius=0.0275 group=0x76285064c0 pos=(0.4807,-0.0296,-0.1844) pocketLoc=0 targetPocket=(0.0000,0.0000,0.0000) pocketAround=0x0
+ball[2] ptr=0x76289e6a80 cue=0 black=0 inPocket=0 radius=0.0275 group=0x7628506480 pos=(0.5291,-0.0295,-0.1513) pocketLoc=0 targetPocket=(0.0000,0.0000,0.0000) pocketAround=0x0
+ball[3] ptr=0x76289e68c0 cue=0 black=0 inPocket=0 radius=0.0275 group=0x7628506440 pos=(0.5307,-0.0296,-0.2132) pocketLoc=0 targetPocket=(0.0000,0.0000,0.0000) pocketAround=0x0
+ball[4] ptr=0x76289e6700 cue=0 black=0 inPocket=0 radius=0.0275 group=0x7628506380 pos=(0.5832,-0.0296,-0.1244) pocketLoc=0 targetPocket=(0.0000,0.0000,0.0000) pocketAround=0x0
+ball[5] ptr=0x76289e6540 cue=0 black=0 inPocket=0 radius=0.0275 group=0x7628506100 pos=(0.5832,-0.0296,-0.1830) pocketLoc=0 targetPocket=(0.0000,0.0000,0.0000) pocketAround=0x0
+ball[6] ptr=0x76289e6380 cue=0 black=0 inPocket=0 radius=0.0275 group=0x76285060c0 pos=(0.5832,-0.0296,-0.2410) pocketLoc=0 targetPocket=(0.0000,0.0000,0.0000) pocketAround=0x0
+ball[7] ptr=0x76289e61c0 cue=0 black=0 inPocket=0 radius=0.0275 group=0x7628506080 pos=(0.6363,-0.0296,-0.1529) pocketLoc=0 targetPocket=(0.0000,0.0000,0.0000) pocketAround=0x0
+ball[8] ptr=0x76289e6000 cue=0 black=0 inPocket=0 radius=0.0275 group=0x7628506040 pos=(0.6363,-0.0296,-0.2101) pocketLoc=0 targetPocket=(0.0000,0.0000,0.0000) pocketAround=0x0
+ball[9] ptr=0x7628afce00 cue=0 black=0 inPocket=0 radius=0.0275 group=0x7628506000 pos=(0.6888,-0.0296,-0.1850) pocketLoc=0 targetPocket=(0.0000,0.0000,0.0000) pocketAround=0x0
+pocketScan: regions=623 klasses=11982
+  klass=0x800000008 n=57 locs=[1, 2, 3, 4, 6]
+  klass=0x100000000 n=38 locs=[1, 2, 3, 5, 6]
+  klass=0x300020000 n=52 locs=[1, 2, 3, 4, 5]
+  klass=0x200000000 n=13 locs=[1, 3, 4, 5, 6]
+  klass=0x400000000 n=64 locs=[1, 2, 3, 4, 6]
+  klass=0x7600000000 n=29 locs=[1, 2, 3, 4, 6]
+  klass=0x71153010 n=104 locs=[2, 3, 4, 5, 6]
+  klass=0x72c976e0 n=23 locs=[1, 2, 3, 4, 6]
+  klass=0x76803d07c0 n=24 locs=[1, 2, 3, 4, 5, 6]
+  klass=0x76df2255c0 n=207 locs=[1, 2, 3, 4, 5, 6]
+  klass=0x76df269300 n=179 locs=[1, 2, 3, 4, 5, 6]
+  klass=0x76d3948b48 n=41 locs=[1, 2, 3, 4, 5, 6]
+  klass=0x76d1d58b10 n=42 locs=[1, 2, 3, 4, 5, 6]
+  klass=0x76803d5f20 n=24 locs=[1, 2, 3, 4, 5, 6]
+  klass=0x70e71ad8 n=81 locs=[1, 2, 3, 4, 5, 6]
+  klass=0x7714ffa6e8 n=5 locs=[1, 2, 3, 4, 5]
+  klass=0x76d1dd2620 n=6 locs=[1, 2, 3, 4, 5, 6]
+  klass=0x70eec878 n=23 locs=[1, 2, 3, 4, 5]
+  klass=0x76df106380 n=57 locs=[2, 3, 4, 5, 6]
+pockets scan: مرشح klass=0x76803d07c0 اسم=System.Collectio.Dictionary`2 n=24
+pockets scan: مرشح klass=0x76d3948b48 اسم=System.Collectio.Dictionary`2 n=41
+pockets scan: مرشح klass=0x76d1d58b10 اسم=PoolLiveTourMax..Pocket n=42
+pockets scan: مرشح klass=0x76803d5f20 اسم=System.Collectio.Dictionary`2 n=24
+pockets scan: مرشح klass=0x76d1dd2620 اسم=PoolLiveTourMax..BallData n=6
+pocketObj[Top] obj=0x7628531fc0 orbit=0x7563596320 pos=(-0.0010,-0.0281,0.4284)
+pocketObj[TopLeft] obj=0x7628531c80 orbit=0x7563596340 pos=(-1.1447,-0.0315,0.4090)
+pocketObj[TopRight] obj=0x7628531c00 orbit=0x7563596360 pos=(1.1447,-0.0315,0.4090)
+pocketObj[Bottom] obj=0x7628531bc0 orbit=0x75635962c0 pos=(-0.0010,-0.0281,-0.7944)
+pocketObj[BottomLeft] obj=0x7628531cc0 orbit=0x7563596300 pos=(-1.1447,-0.0315,-0.7750)
+pocketObj[BottomRight] obj=0x7628531dc0 orbit=0x75635962e0 pos=(1.1447,-0.0315,-0.7750)
+pockets: اتحفظت في ذاكرة الأداة للطاولة 11
+pocket[Top] = (-0.0010,-0.0281,0.4284)
+pocket[TopLeft] = (-1.1447,-0.0315,0.4090)
+pocket[TopRight] = (1.1447,-0.0315,0.4090)
+pocket[Bottom] = (-0.0010,-0.0281,-0.7944)
+pocket[BottomLeft] = (-1.1447,-0.0315,-0.7750)
+pocket[BottomRight] = (1.1447,-0.0315,-0.7750)

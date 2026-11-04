@@ -1,0 +1,10 @@
+{
+  "source": "level5 (Unity 6000.3.9f1, serialized v22, no TypeTree), MonoBehaviour PathID 84, script PPtr (1,443)=ServerTracker; raw bytes: servertracker_level5_pathid84.bin (160 B)",
+  "mapping_check": "component-relative offset + 0xB0 = managed offset; libil2cpp uses +0x140 float, +0x144 float, +0x148 int32, +0x14C bool (docs/FINDINGS_P2Q.md)",
+  "fields": {
+    "minXpoint": -0.0015, "maxXpoint": 0.0015, "minZpoint": -0.0015, "maxZpoint": 0.0015,
+    "minXRack": -0.07, "maxXRack": 0.07,
+    "substeps": 7.0, "stopSimulateThreshold": 0.002, "solvecount": 8, "isSolving": false
+  },
+  "note": "only ServerTracker instance found in the supplied scenes; ReMius_ServerTracker_CoreAssets.zip has empty level4/level5/resources.assets (0 bytes) -- level5 comes from the Evidence zip"
+}
